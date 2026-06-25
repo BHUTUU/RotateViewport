@@ -8,7 +8,7 @@
     <Nullable>disable</Nullable>
 	<LangVersion>latest</LangVersion>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-	<CopyLocalLockFileAssmeblies>false</CopyLocalLockFileAssmeblies>
+	<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
 	<NoWarn>MSB3277</NoWarn>
   </PropertyGroup>
 
